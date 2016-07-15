@@ -1,0 +1,57 @@
+body {
+	font-family: 'Work Sans', Helvetica, sans-serif;
+	color: #333;
+	text-align: center;
+	background-color: #f9f9f9;
+}
+
+h1 {
+ 	font-weight: 900;
+ 	font-size: 5em;
+ 	letter-spacing: .15em
+}
+
+ul {
+	font-weight: 300;
+	list-style-type: none;
+	font-size: 1.7em;
+	line-height: 1.9em;
+}
+
+button, input {
+	font-size: 1.8em;
+	font-family: 'Work Sans', Helvetica, sans-serif;
+	margin-bottom: 20px;
+	padding: 15px;
+
+}
+
+button {
+	font-weight: 300;
+	background-color: #333;
+	border: 2px solid;
+	border-color: #333;
+	color: white;
+	text-transform: uppercase;
+}
+
+button:hover {
+	background-color: #47b8b2;
+	border-color: #47b8b2;
+}
+
+input {
+
+}
+
+#title, #todoList {
+}
+
+a {
+	text-decoration: none;
+	color: #47b8b2;
+}
+
+.completed {
+	text-decoration: line-through;
+}
